@@ -1,2 +1,1 @@
 "# Cognifyzintern-fullstackdevelopment" 
-"# Cognifyzintern-fullstackdevelopment" 
